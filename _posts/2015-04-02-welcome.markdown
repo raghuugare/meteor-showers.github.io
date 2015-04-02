@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2015-04-02 12:20:50
+categories: welcome intro
+---
+
+**Hello** there!
+
+Welcome to 'Meteor showers', your friendly source of inspiring & interesting tid-bits of info on, and around the awesome Meteor framework...!
+
+Cheers & Best wishes,
+'raghu'

@@ -1,0 +1,12 @@
+# Site settings
+title: Meteor showers...!
+email: raghu.ugare@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Keep visiting for inspiring & interesting 'sightings' of 'Meteor showers'---code & tid-bits around the awesome Meteor framework.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: meteor-showers.github.io # the base hostname & protocol for your site
+twitter_username: raghu_ugare
+github_username:  raghuugare
+
+# Build settings
+markdown: kramdown
